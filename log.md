@@ -1,30 +1,52 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: June 26, 2017
+**Today's Progress**: Spent some time on Codewars doing javascript Kata's.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts:** Need to up my javascript game. Also need to improve how I think about the algorythms.
 
 
-### Day 1: June 27, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+### Day 2: June 27, 2017
+**Today's Progress**: Spent some time working through javascript interview questions on Codewars.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: Codewars is pretty cool site, great way to find things to code.
+
+
+
+### Day 3: June 28, 2017
+**Today's Progress**: Created a small sample of how to show a 'Scroll Down' arrow using CSS on Codepen.
+
+**Thoughts** Took longer than I thought but getting better at CSS..
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+- [Link to Codepen bit.ly/2tpH04b](https://bit.ly/2tpH04b)
+
+
+
+### Day 4: June 29, 2017
+**Today's Progress**: More time on Codewars javascript.
+
+**Thoughts** Feeling better about javascript.
+
+
+
+### Day 5: June 30, 2017
+**Today's Progress**: Worked on my personal website.
+
+**Thoughts** Need to get the site finished so I can use it for blogging.
+
+
+
+### Day 6: July 1, 2017
+**Today's Progress**: Worked on my personal website again.
+
+**Thoughts** Front page is just about done. Need a better design for the blog section.
+
+
+
+### Day 6: July 3, 2017
+**Today's Progress**: Missed yesterday. Worked on my website again today. Have the footer finished.
+
+**Thoughts** Still need a design for the blog section.
