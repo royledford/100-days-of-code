@@ -1,16 +1,30 @@
 # 100 Days Of Code - Log
 
-### Day 1: June 26, 2017
-**Today's Progress**: Spent some time on Codewars doing javascript Kata's.
+### Day 7: July 4, 2017
+**Today's Progress**: More work on my personal website.
 
-**Thoughts:** Need to up my javascript game. Also need to improve how I think about the algorythms.
+**Thoughts** Still need a design for the blog section.
 
 
 
-### Day 2: June 27, 2017
-**Today's Progress**: Spent some time working through javascript interview questions on Codewars.
+### Day 6: July 3, 2017
+**Today's Progress**: Missed yesterday. Worked on my website again today. Have the footer finished.
 
-**Thoughts**: Codewars is pretty cool site, great way to find things to code.
+**Thoughts** Still need a design for the blog section.
+
+
+
+### Day 5: June 30, 2017
+**Today's Progress**: Worked on my personal website.
+
+**Thoughts** Need to get the site finished so I can use it for blogging.
+
+
+
+### Day 4: June 29, 2017
+**Today's Progress**: More time on Codewars javascript.
+
+**Thoughts** Feeling better about javascript.
 
 
 
@@ -25,28 +39,14 @@
 
 
 
-### Day 4: June 29, 2017
-**Today's Progress**: More time on Codewars javascript.
+### Day 2: June 27, 2017
+**Today's Progress**: Spent some time working through javascript interview questions on Codewars.
 
-**Thoughts** Feeling better about javascript.
-
-
-
-### Day 5: June 30, 2017
-**Today's Progress**: Worked on my personal website.
-
-**Thoughts** Need to get the site finished so I can use it for blogging.
+**Thoughts**: Codewars is pretty cool site, great way to find things to code.
 
 
 
-### Day 6: July 1, 2017
-**Today's Progress**: Worked on my personal website again.
+### Day 1: June 26, 2017
+**Today's Progress**: Spent some time on Codewars doing javascript Kata's.
 
-**Thoughts** Front page is just about done. Need a better design for the blog section.
-
-
-
-### Day 6: July 3, 2017
-**Today's Progress**: Missed yesterday. Worked on my website again today. Have the footer finished.
-
-**Thoughts** Still need a design for the blog section.
+**Thoughts:** Need to up my javascript game. Also need to improve how I think about the algorythms.
