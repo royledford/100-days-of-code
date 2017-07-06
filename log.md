@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 9: July 5, 2017
+**Today's Progress**: More Node.js work. Checked out Grunt and setup by watching Lynda.com video.
+
+**Thoughts** I like Gulp way better!
+
+
+
+### Day 8: July 5, 2017
+**Today's Progress**: Did some Lynda.com on Node.js, very enlightening.
+
+**Thoughts** Node is very cool. The Lynda course got confusing near the end. Found Node.js much easier to understand than rails.
+
+
+
 ### Day 7: July 4, 2017
 **Today's Progress**: More work on my personal website.
 
