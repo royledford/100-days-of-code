@@ -1,5 +1,33 @@
 # 100 Days Of Code - Log
 
+### Day 13: July 13, 2017
+**Today's Progress**: More work in the InstaClone app in rails. Updated rails to use .sass indentation files instead of .scss.
+
+**Thoughts** Getting up to speed is slow. Spend alot of time learning just how to setup rails and not enough time working on the app.
+
+
+
+### Day 12: July 11, 2017
+**Today's Progress**: More work in the InstaClone app in rails.
+
+**Thoughts** I need to spend alot more rails dev time to get up to speed. I spend way to much time searching for how to do various tasks.
+
+
+
+### Day 11: July 10, 2017
+**Today's Progress**: Started an instagram clone app in rails for practice.
+
+**Thoughts** I need to build a rails dev environment so I can get started on these apps quicker.
+
+
+
+### Day 10: July 7, 2017
+**Today's Progress**: Started working on an electron app for fun. It's pretty cool stuff.
+
+**Thoughts** Would like to learn more but I should be focusing on rails.
+
+
+
 ### Day 9: July 5, 2017
 **Today's Progress**: More Node.js work. Checked out Grunt and setup by watching Lynda.com video.
 
