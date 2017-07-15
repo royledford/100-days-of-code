@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 14: July 14, 2017
+**Today's Progress**: More work in the InstaClone app in rails. Working on getting user authentication working.
+
+**Thoughts** Writing tests is hard! lol.
+
+
+
 ### Day 13: July 13, 2017
 **Today's Progress**: More work in the InstaClone app in rails. Updated rails to use .sass indentation files instead of .scss.
 
