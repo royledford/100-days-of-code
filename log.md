@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 15: July 15, 2017
+**Today's Progress**: More rails work on my instagram clone app. Have a user signup page now.
+
+**Thoughts**
+
+
+
 ### Day 14: July 14, 2017
 **Today's Progress**: More work in the InstaClone app in rails. Working on getting user authentication working.
 
