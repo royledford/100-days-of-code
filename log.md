@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+### Day 20: July 17, 2017
+**Today's Progress**: Back on track for posting each day. More rails app work.
+
+**Thoughts**
+
+
+
+### Day 19: July 17, 2017
+**Today's Progress**: Keep forgetting post, lol. More work on a rails tutorial app.
+
+**Thoughts**
+
+
+
+### Day 18: July 17, 2017
+**Today's Progress**: Spent time doing a tutorial and small demo with bootstrap.
+
+**Thoughts**
+
+
+
 ### Day 17: July 17, 2017
 **Today's Progress**: More rails work on my instagram clone app. Styling the user profile page.
 
