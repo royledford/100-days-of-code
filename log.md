@@ -1,20 +1,54 @@
 # 100 Days Of Code - Log
 
-### Day 20: July 17, 2017
+### Day 25: July 25, 2017
+**Today's Progress**: Had to take a break from front end work today. Worked on getting node-red installed on my machine and learning how to access MySQL from it.
+
+**Thoughts** node-red is very cool. I may be working on an app for ETL transforms from on premise db to cloud db.
+
+
+
+### Day 24: July 24, 2017
+**Today's Progress**: Wasn't feeling well today so I did the FreeCodeCamp tribute page. Sex Pistols!!!
+
+**Thoughts**
+
+
+
+### Day 23: July 23, 2017 Worked on some FreeCodeCamp exercises today.
+
+**Thoughts** So far the FreeCodeCamp is pretty easy as it is just HTML and CSS fundamentals.
+
+
+
+### Day 22: July 22, 2017
+**Today's Progress**: Installed docker and set it up for rails development at the Ruby Brigade meetup and General Provision.
+
+**Thoughts**
+
+
+
+### Day 21: July 21, 2017
+**Today's Progress**: Working on my personal website
+
+**Thoughts** I've decided to focus on doing 1 thing at time. I was trying to split my day up into different technologies but I think focusing on 1 thing until I'm finished with it is a better way to learn.
+
+
+
+### Day 20: July 20, 2017
 **Today's Progress**: Back on track for posting each day. More rails app work.
 
 **Thoughts**
 
 
 
-### Day 19: July 17, 2017
+### Day 19: July 19, 2017
 **Today's Progress**: Keep forgetting post, lol. More work on a rails tutorial app.
 
 **Thoughts**
 
 
 
-### Day 18: July 17, 2017
+### Day 18: July 18, 2017
 **Today's Progress**: Spent time doing a tutorial and small demo with bootstrap.
 
 **Thoughts**
